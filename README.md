@@ -1,2 +1,2 @@
 # Clear-Icon-Db
-Fixes desktop icon problems by cleaning icondb cache.
+Fixes desktop icon problems by cleaning cache.
